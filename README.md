@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Rubén López</h1>
 <h3 align="center">Soy un estudiante de DAM que le apasiona el backend.</h3>
 
-- 💬 Ask me about **C#, MariaDB, .NET, HTML, CSS, JavaScript**
+- 📫 Cómo localizarme: **rinfogit@gmail.com**
 
-- 📫 How to reach me **rinfogit@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubenlopezhdz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubenlopezhdz" height="30" width="40" /></a>
 </p>
