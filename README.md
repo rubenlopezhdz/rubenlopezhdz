@@ -21,8 +21,8 @@
   <tbody>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/gestion-de-fichajes"> Gestión de fichajes </a> </td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Descripción breve del proyecto 1.</td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">HTML, CSS, JavaScript</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Apliación que gestiona los fichajes producidos por los empleados.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">C#, .NET</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;">Proyecto 2</td>
