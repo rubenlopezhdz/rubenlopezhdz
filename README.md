@@ -25,14 +25,14 @@
       <td style="border: 1px solid #dddddd; padding: 8px;">C#, .NET</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Proyecto 2</td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Descripción breve del proyecto 2.</td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Python, Flask</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Proyecto 3</td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Descripción breve del proyecto 3.</td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">React, Node.js</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
     </tr>
   </tbody>
 </table>
