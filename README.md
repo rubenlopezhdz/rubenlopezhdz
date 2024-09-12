@@ -19,13 +19,13 @@
   <tbody>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/gestion-de-fichajes"> Gestión de fichajes </a> </td>
-      <td style="border: 1px solid #dddddd; padding: 8px;">Apliación que gestiona los fichajes producidos por los empleados.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Aplicación que gestiona los fichajes producidos por los empleados.</td>
       <td style="border: 1px solid #dddddd; padding: 8px;">C#, .NET</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"></td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/green-space-films"> Gestión de tickets de un cine </a> </td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> Proyecto grupal - Aplicación que gestiona las entradas, butacas, reseñas... de un cine.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">C#, .Net</td>
     </tr>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;"></td>
