@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, me llamo Rubén López</h1>
-<h3 align="center">Soy un estudiante de DAM que le apasiona el backend.</h3>
+<h1 align="center">Hola bienvenido/a mi Github👋✌️, soy Rubén López</h1>
+<h3 align="center">Como estudiante y futuro programador, <br> este es mi pequeño espacio para poder mostrar paso a paso mis esfuerzos. A trabajar duro!</h3>
 
 - 📫 Cómo localizarme: **rinfogit@gmail.com**
 
