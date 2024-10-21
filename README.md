@@ -1,4 +1,7 @@
 <h1 align="center">Hola bienvenido/a mi Github👋✌️, soy Rubén López</h1>
+
+<img align="center" width="200" src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" />
+
 <h3 align="center">Como estudiante y futuro programador, <br> este es mi pequeño espacio para poder mostrar paso a paso mis esfuerzos. A trabajar duro!</h3>
 
 - 📫 Cómo localizarme: **rinfogit@gmail.com**
