@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/green-space-films"> Gestión de entradas </a> </td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"> Proyecto grupal - Aplicación que gestiona las entradas, butacas, reseñas... de un cine.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> Proyecto grupal 1ºDAM - Aplicación que gestiona las entradas, butacas, reseñas... de un cine.</td>
       <td style="border: 1px solid #dddddd; padding: 8px;">C#, .Net</td>
     </tr>
     <tr>
