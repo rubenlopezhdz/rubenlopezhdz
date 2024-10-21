@@ -1,9 +1,9 @@
 <h1 align="center">Hola bienvenido/a mi Github👋✌️, soy Rubén López</h1>
 
-<img align="center" width="200" src="https://nattia.com/wp-content/uploads/2023/10/java_image.png" />
-
-<h3 align="center">Como estudiante y futuro programador, <br> este es mi pequeño espacio para poder mostrar paso a paso mis esfuerzos. A trabajar duro!</h3>
-
+<p align="center" width="300">
+  <img align="center" width="200" src="https://nattia.com/wp-content/uploads/2023/10/java_image.png" />
+  <h3 align="center">Como estudiante y futuro programador, <br> este es mi pequeño espacio para poder mostrar paso a paso mis esfuerzos. A trabajar duro!</h3>
+</p>
 - 📫 Cómo localizarme: **rinfogit@gmail.com**
 
 <h3 align="left">Conecta conmigo en:</h3>
