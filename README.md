@@ -21,7 +21,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/gestion-de-fichajes"> Gestión de fichajes </a> </td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/green-space-films"> Gestión de fichajes </a> </td>
       <td style="border: 1px solid #dddddd; padding: 8px;">Aplicación que gestiona los fichajes producidos por los empleados.</td>
       <td style="border: 1px solid #dddddd; padding: 8px;">C#, .Net</td>
     </tr>
@@ -31,7 +31,7 @@
       <td style="border: 1px solid #dddddd; padding: 8px;">C#, .Net</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/green-space-films"> Gestión de ficheros '.txt' </a> </td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/gestion-de-fichajes"> Gestión de ficheros '.txt' </a> </td>
       <td style="border: 1px solid #dddddd; padding: 8px;"> Aplicación que maneja el acceso a ficheros .txt</td>
       <td style="border: 1px solid #dddddd; padding: 8px;"> Java </td>
     </tr>
