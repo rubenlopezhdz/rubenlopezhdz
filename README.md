@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td style="border: 1px solid #dddddd; padding: 8px;"> <a href="https://github.com/rubenlopezhdz/gestion-de-fichajes"> Gestión de ficheros '.txt' </a> </td>
-      <td style="border: 1px solid #dddddd; padding: 8px;"> Aplicación que maneja el acceso a ficheros .txt</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;"> Aplicación para manejar el acceso a ficheros de extensión ".txt"</td>
       <td style="border: 1px solid #dddddd; padding: 8px;"> Java </td>
     </tr>
   </tbody>
